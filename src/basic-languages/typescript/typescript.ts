@@ -146,6 +146,7 @@ export const language = {
 		'symbol',
 		'this',
 		'throw',
+		'throws',
 		'true',
 		'try',
 		'type',
